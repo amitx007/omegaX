@@ -1,3 +1,4 @@
 .env
 node_modules
 eng.traineddata
+.vscode
