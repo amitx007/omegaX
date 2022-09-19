@@ -45,3 +45,5 @@ OmegaX is a multifunctional discord bot which is made with the help of [discord.
 ![ss3](./assets/ss3.png)
 
 ![ss4](./assets/ss4.png)
+
+![ss5](./assets/ss5.png)
