@@ -35,3 +35,13 @@ OmegaX is a multifunctional discord bot which is made with the help of [discord.
 **NOTE: we recommend you NOT to upload a large size image it will take a long time to get the text**
 
 5. **Calculator :** to use the calculator type **/calculator calulate** it will ask for an **expression** which is **compulory** to know more about it like how to use type **/calculator help**
+
+# Screenshots
+
+![ss1](./assets/ss1.png)
+
+![ss2](./assets/ss2.png)
+
+![ss3](./assets/ss3.png)
+
+![ss4](./assets/ss4.png)
